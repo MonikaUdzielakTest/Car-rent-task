@@ -1,2 +1,4 @@
 # Car-rent-task
-Car rent task: test cases and Cypress tests
+Test cases, Cypress tests
+
+Enviroment: Cypres version: 9.6.1, Chrome version: 101.0.4951.54, Windows 10
